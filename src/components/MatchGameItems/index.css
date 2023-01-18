@@ -1,0 +1,12 @@
+li {
+  color: aliceblue;
+  list-style-type: none;
+}
+
+.btn {
+  padding: 10px;
+  background-color: #2c0e3a;
+  color: white;
+  border: none;
+  margin: 25px;
+}
